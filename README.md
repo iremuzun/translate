@@ -1,3 +1,3 @@
 # translate
 Googletrans is a free and unlimited python library that implemented Google Translate API.
-Basic google translate pyhton project
+I create basic google translate pyhton project
